@@ -1,2 +1,5 @@
 # js.hindi
-for Js
+#for Js
+<script>
+hiii
+<\script>
